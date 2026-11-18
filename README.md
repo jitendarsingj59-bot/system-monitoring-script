@@ -68,3 +68,23 @@ Cron automation was verified by checking the log file and confirming that new mo
 
 ## Author
 Jeet
+
+## Sample Output
+
+Example output from the monitoring script:
+
+System monitoring started.
+
+Disk usage normal on /: 5%
+Disk usage normal on /boot/efi: 1%
+
+Memory usage normal: 15%
+CPU usage normal: 1.5%
+
+Top 5 CPU-consuming processes:
+[Process details displayed]
+
+Top 5 Memory-consuming processes:
+[Process details displayed]
+
+System monitoring completed.
